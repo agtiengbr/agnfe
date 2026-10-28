@@ -56,6 +56,9 @@ php tests/validation.php
 
 As releases são publicadas pelo workflow **Release** ao enviar uma tag no formato `v1.0.0`. A versão precisa coincidir em `agnfe.php` e `config.xml`. O workflow verifica sintaxe PHP, executa os testes e gera `agnfe-<versão>.zip` com a pasta raiz `agnfe/`, sem testes nem arquivos do workflow. Publicar uma release não faz deploy em lojas.
 
+O workflow também permite disparo manual, informando uma tag existente. Nesse
+caso, valida e empacota exatamente o código da tag selecionada.
+
 ## Contribuições
 
 Contribuições são bem-vindas. Forks e pull requests podem ser submetidos desde que estejam em conformidade com os termos da licença **GNU General Public License v3.0 (GPLv3)**.
