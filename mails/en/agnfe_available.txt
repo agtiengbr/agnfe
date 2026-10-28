@@ -1,0 +1,4 @@
+Hello {firstname},
+
+The invoice PDF for order {order_reference} is available.
+Open your order to download it: {order_url}

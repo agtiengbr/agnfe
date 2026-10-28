@@ -1,0 +1,4 @@
+Olá {firstname},
+
+O DANFE da nota fiscal do pedido {order_reference} está disponível.
+Acesse seu pedido para baixar o PDF: {order_url}

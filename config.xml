@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>agnfe</name>
+    <displayName><![CDATA[Documentos da NF-e]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Anexa XML e DANFE ao pedido e disponibiliza o DANFE ao cliente.]]></description>
+    <author><![CDATA[AGTI]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

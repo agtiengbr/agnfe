@@ -1,0 +1,6 @@
+/dist/
+/vendor/
+/.env
+/.env.*
+/agnfe_private/
+*.log
